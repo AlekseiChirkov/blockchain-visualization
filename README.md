@@ -1,1 +1,1 @@
-# blockchain-visualization
+# Blockchain vizualization project
